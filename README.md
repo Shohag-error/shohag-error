@@ -1,8 +1,8 @@
 ### installation
 
 
-Git clone https://github.com/Shohag-error/shohag-error
+git clone https://github.com/Shohag-error/shohag-error
 
-Cd shohag-error
+cd shohag-error
 
-Python shohag-error.py
+python shohag-error.py
