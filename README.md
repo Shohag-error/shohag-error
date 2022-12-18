@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Git clone https://github.com/Shohag-error/shohag-error
+
+Cd shohag-error
+
+Python shohag-error.py
